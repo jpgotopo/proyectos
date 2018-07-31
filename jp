@@ -1,0 +1,21 @@
+[33mcommit ad18355b69704149e8672d221ad87492c3658951[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Jean Paul Gotopo Maldonado <jpgotopo@GMAIL.COM>
+Date:   Tue Oct 31 22:39:27 2017 -0500
+
+    phoneanalyer.py
+    
+    Es un programa para comparar rasgos distintivos entre determinada cantidad de sonidos requeridos en la investigación fonológica de una lengua. El programa facilita el descubrir cuáles rasgos son semenjantes entre una selección previa de sonidos. La interfaz está diseñada para que el usuario pueda escoger los sonidos, de manera que el programa en sí analice cuáles rasgos son semejantes.
+
+[33mcommit bc0e7edff9dfe0cc5d031a080449a7ffa493343e[m
+Author: Jean Paul Gotopo Maldonado <jpgotopo@GMAIL.COM>
+Date:   Fri Sep 22 01:36:56 2017 -0500
+
+    Create contador.py
+    
+    Archivo Python de un contador
+
+[33mcommit b0a2e091eee647d39eea17a29e7009af04da794b[m
+Author: jpgotopo <jpgotopo@GMAIL.COM>
+Date:   Tue Apr 18 07:31:06 2017 -0500
+
+    Initial commit
